@@ -1,0 +1,46 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {chapter}{Introduzione}{6}
+\contentsline {chapter}{\numberline {1}L'esperimento CT-PPS a LHC}{8}
+\contentsline {section}{\numberline {1.1}Large Hadron Collider}{9}
+\contentsline {section}{\numberline {1.2}CMS - TOTEM Precision Proton Spectrometer}{12}
+\contentsline {subsection}{\numberline {1.2.1}Panoramica sullo spettrometro di precisione per protoni CMS - TOTEM}{12}
+\contentsline {subsection}{\numberline {1.2.2}Rivelatori e condizioni sperimentali}{14}
+\contentsline {subsection}{\numberline {1.2.3}Il sistema dei Roman Pot e dei collimatori nella regione di IP5 a 200 m}{15}
+\contentsline {subsection}{\numberline {1.2.4}Ottica del fascio}{17}
+\contentsline {subsection}{\numberline {1.2.5}Accettanza e risoluzione dei rivelatori: $\xi $, t}{21}
+\contentsline {subsection}{\numberline {1.2.6}Accettanza e risoluzione dei rivelatori: massa}{23}
+\contentsline {subsection}{\numberline {1.2.7}Allineamento dei Roman Pot}{23}
+\contentsline {chapter}{\numberline {2}Programma di fisica}{25}
+\contentsline {subsection}{\numberline {2.0.1}Processi fisici}{25}
+\contentsline {subsection}{\numberline {2.0.2}Produzione centrale esclusiva $dijet$}{25}
+\contentsline {subsection}{\numberline {2.0.3}Produzione centrale esclusiva $WW$}{27}
+\contentsline {section}{\numberline {2.1}Esperimento TOTEM}{27}
+\contentsline {subsection}{\numberline {2.1.1}Variabili di Mandelstam}{27}
+\contentsline {section}{\numberline {2.2}Fisica con CMS-TOTEM Precision Proton Spectrometers}{29}
+\contentsline {subsection}{\numberline {2.2.1}Introduzione alla fisica con CT-PPS}{29}
+\contentsline {subsection}{\numberline {2.2.2}Collisioni a due fotoni}{30}
+\contentsline {subsection}{\numberline {2.2.3}Processi elastici, diffrattivi e inelastici}{30}
+\contentsline {chapter}{\numberline {3}Cinematica relativistica di scattering inelastico $pp$}{34}
+\contentsline {section}{\numberline {3.1}$p$ + $p$ $\DOTSB \relbar \joinrel \rightarrow $ $p$ + ($X$ + $Z$) + $p$}{35}
+\contentsline {subsection}{\numberline {3.1.1}Rapidit\'a e pseudorapidit\'a}{44}
+\contentsline {chapter}{\numberline {4}Software di simulazione e ricostruzione dei Roman Pot}{45}
+\contentsline {subsection}{\numberline {4.0.1}Software di simulazione}{46}
+\contentsline {subsection}{\numberline {4.0.2}Smearing angolare e di energia}{47}
+\contentsline {section}{\numberline {4.1}Istogrammi}{49}
+\contentsline {subsection}{\numberline {4.1.1}Particella $X$}{49}
+\contentsline {subsection}{\numberline {4.1.2}Particella $Z$}{53}
+\contentsline {section}{\numberline {4.2}Misura dei protoni con i Roman Pot}{58}
+\contentsline {subsection}{\numberline {4.2.1}Distribuzione dei protoni (no smear)}{61}
+\contentsline {subsection}{\numberline {4.2.2}Distribuzione dei protoni (smear)}{62}
+\contentsline {subsection}{\numberline {4.2.3}Distribuzione dei protoni: no smear $vs$ smear}{63}
+\contentsline {chapter}{Conclusioni}{67}
+\contentsline {chapter}{Ringraziamenti}{68}
+\contentsline {chapter}{Appendice}{69}
+\contentsline {section}{\numberline {4.3}Analisi dati con ROOT}{69}
+\contentsline {subsection}{\numberline {4.3.1}Motivazione e Introduzione}{69}
+\contentsline {subsection}{\numberline {4.3.2}Istogrammi con ROOT}{70}
+\contentsline {subsection}{\numberline {4.3.3}Macro di ROOT}{70}
+\contentsline {subsection}{\numberline {4.3.4}Simulazione Monte Carlo}{71}
+\contentsline {section}{\numberline {4.4}Istogrammi}{72}
+\contentsline {chapter}{Bibliografia}{80}
